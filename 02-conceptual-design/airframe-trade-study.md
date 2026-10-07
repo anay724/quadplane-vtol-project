@@ -9,6 +9,7 @@ Scoring: 1-5, Max Points: 500
 | Cost | 10 | 3 | 4 | 3 |
 | Total | 100 | 360 | 370 | 315 |
 
-The Flying Wing clearly scores much lower than the other two airframes. The Conventional and V-tail scored very similar meaning both are good choices. If any numbers had to be altered, the weight for the v-tail would be dropped from a 5 -> 4 since the difference in weight between a v-tail and conventional airframe design is very small.
+The Flying Wing clearly scores much lower than the other two airframes. The Conventional and V-tail scored within 10 points of each other, meaning both are good choices overall. If any numbers had to be altered, the weight for the v-tail would be dropped from a 5 -> 4 since the difference in weight between a v-tail and conventional airframe design is very small.
 
-The final choice for airframe design is Conventional since the biggest difference in a category is in design simplicity. This is due to the fact that the V-tail design has a mix of pitch and yaw controls, which means there is an extra setup that does not have a weight in the trade study and carries risk due to posssibly being misconfigured.
+Final choice: Conventional Tail\
+Reason: The biggest difference in a category is in design simplicity. This is due to the fact that the V-tail design has a mix of pitch and yaw controls, which means there is an extra software setup step that does not have a weight in the trade study and carries risk due to possibly being misconfigured.
