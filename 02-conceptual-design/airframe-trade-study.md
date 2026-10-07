@@ -1,3 +1,4 @@
+Scoring: 1-5, Max Points: 500
 | Criteria | Weight | Conventional | V-tail | Flying Wing |
 |---|---|---|---|---|
 | Beginner controllability | 30 | 4 | 4 | 2 |
