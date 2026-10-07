@@ -1,1 +1,1 @@
-blank
+This project serves as an educational test bed for aerospace and mechatronics engineering. The goal is to design, simulate, build, and test a QuadPlane VTOL from scratch, involving the full engineering design process. It will include requirements, analysis, and testing, with failures and lessons to be learned and documented. Testing will start with simulation before flight is conducted in a legally approved area.
